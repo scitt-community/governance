@@ -4,6 +4,8 @@ This is the organizational charter for the SCITT Community Organization (the "Or
 
 ## 1. Mission
 
+Work as a community to promote interoperable applications and services that use (but are not in themselves) IETF SCITT standards.
+
 >TBD as the first order of business of the [SCITT Steering Committee](./STEERING-COMMITTEE.md)
 
 [Set out mission of the Organization].
