@@ -1,4 +1,4 @@
-# Charter for the [FIXME] Organization
+# Charter for the SCITT Community
 
 This is the organizational charter for the SCITT Community Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
