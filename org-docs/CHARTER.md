@@ -17,6 +17,8 @@ Voting members may be added or removed by no less than 3/4 affirmative vote of t
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 The Steering Committee shall be composed of not less than 7 and not more than 9 members at any given time.
 
+**2.3 Term Length** Steering Committee members shall serve for a two year term.  
+
 ## 3. Voting
 
 **3.1. Decision Making**. The Steering Committee will strive for all decisions to be made by consensus. While explicit agreement of the entire Steering Committee is preferred, it is not required for consensus. Rather, the Steering Committee will determine consensus based on their good faith consideration of a number of factors, including the dominant view of the Steering Committee and nature of support and objections. The Steering Committee will document evidence of consensus in accordance with these requirements. If consensus cannot be reached, the Steering Committee will make the decision by a vote.
