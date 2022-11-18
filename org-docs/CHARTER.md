@@ -15,6 +15,7 @@ This is the organizational charter for the SCITT Community Organization (the "Or
 **2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
+The Steering Committee shall be composed of not less than 7 and not more than 9 members at any given time.
 
 ## 3. Voting
 
