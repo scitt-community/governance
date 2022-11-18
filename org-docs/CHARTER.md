@@ -3,7 +3,7 @@
 This is the organizational charter for the SCITT Community Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
-Work as a community to promote interoperable software solutions (be it applications or services) that are based on standards defined by IETF Supply Chain Integrity, Transparency & Trust [SCITT]
+Work as a community to facilitate adoption of IETF Supply Chain Integrity, Transparency & Trust (SCITT) specifications.
 
 
 ## 2. Steering Committee
