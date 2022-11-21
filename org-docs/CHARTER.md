@@ -3,10 +3,8 @@
 This is the organizational charter for the SCITT Community Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
+Work as a community to facilitate adoption of IETF Supply Chain Integrity, Transparency & Trust (SCITT) specifications.
 
->TBD as the first order of business of the [SCITT Steering Committee](./STEERING-COMMITTEE.md)
-
-[Set out mission of the Organization].
 
 ## 2. Steering Committee
 
