@@ -10,7 +10,7 @@ Work as a community to facilitate adoption of IETF Supply Chain Integrity, Trans
 
 **2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
 
-**2.2 Composition**. The Steering Committee voting members are listed in the steering-committee.md file in the repository.
+**2.2 Composition**. The Steering Committee voting members are listed in the [steering-committee.md](STEERING-COMMITTEE.md) file in the repository.
 Voting members may be added or removed by no less than 3/4 affirmative vote of the Steering Committee.
 The Steering Committee will appoint a Chair responsible for organizing Steering Committee activity.
 The Steering Committee shall be composed of not less than 7 and not more than 9 members at any given time.
@@ -45,7 +45,7 @@ Information disclosed in connection with any of the Organization's activities, i
 
 ## 8. Project Criteria
 
-In order to be eligible to be a Organization project, a project must:
+A Project may be represented by one or more git repositories. In order to be eligible to be a Organization project, a project must:
 
 * Be approved by the Steering Committee.
 * Agree to follow the guidance and direction of the Steering Committee.
@@ -54,6 +54,11 @@ In order to be eligible to be a Organization project, a project must:
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
 * Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
+* When a project uses multiple repositories, one root repository will maintain the project governance files. The governance files are copied from [project-docs](../project-docs), while the related repositories will maintain the same named files that link back to the root repository.
+
+See [PROJECTS.md](PROJECTS.md) for the current SCITT Community projects.
+
+New projects, that agree to the above criteria, may be created by opening an issue, asking for a vote from the steering committee.
 
 ## 9. Amendments
 
