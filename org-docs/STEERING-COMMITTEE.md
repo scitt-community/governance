@@ -5,11 +5,11 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 |  Henk Birkholz   | @henkbirkholz     | Fraunhofer SIT |
-| Jon Geater       | @JAG-UK           | RKVST          |
+| Jon Geater       | @JAG-UK           | DataTrails          |
 | Kay Williams     | @kaywilliams      | Microsoft      |
 | Mike Prorock     | @mprorock         | Mesur.io       |
 | Orie Steele      | @OR13             | Transmute      |
-| Steve Lasker     | @stevelasker      | RKVST          |
+| Steve Lasker     | @stevelasker      | DataTrails          |
 | Yogesh Deshpande | @yogeshbdeshpande | ARM            |
 
 ---
