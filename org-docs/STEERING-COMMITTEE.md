@@ -4,13 +4,13 @@ This document lists the members of the Organization's Steering Committee. Voting
 
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
-|  Henk Birkholz | @henkbirkholz | Fraunhofer SIT |
-| Jon Geater | @JAG-UK | RKVST |
-| Kay Williams | @kaywilliams | Microsoft |
-| Mike Prorock | @mprorock | Mesur.io |
-| Orie Steele | @OR13 | Transmute |
-| Steve Lasker | @stevelasker | Microsoft |
-| Yogesh Deshpande | @yogeshbdeshpande | ARM |
+|  Henk Birkholz   | @henkbirkholz     | Fraunhofer SIT |
+| Jon Geater       | @JAG-UK           | DataTrails          |
+| Kay Williams     | @kaywilliams      | Microsoft      |
+| Mike Prorock     | @mprorock         | Mesur.io       |
+| Orie Steele      | @OR13             | Transmute      |
+| Steve Lasker     | @stevelasker      | DataTrails          |
+| Yogesh Deshpande | @yogeshbdeshpande | ARM            |
 
 ---
 Part of MVG-0.1-beta.
