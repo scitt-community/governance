@@ -11,7 +11,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Orie Steele      | @OR13             | Transmute      |
 | Steve Lasker     | @stevelasker      | DataTrails          |
 | Yogesh Deshpande | @yogeshbdeshpande | ARM            |
-| A.J. Stein       | @aj-stein-nist    | NIST |
+| A.J. Stein       | @aj-stein         | US General Services Administration |
 
 ---
 Part of MVG-0.1-beta.
