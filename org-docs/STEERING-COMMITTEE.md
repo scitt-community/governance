@@ -16,12 +16,13 @@ If you are serving on the Steering Committee because of your affiliation with an
 | Orie Steele      | @OR13             | Transmute      |
 | Steve Lasker     | @stevelasker      | DataTrails     |
 | Yogesh Deshpande | @yogeshbdeshpande | ARM            |
-| A.J. Stein       | @aj-stein         | US General Services Administration |
 
 ## Emeritus
+
 | **NAME** | **Handle** | **Affiliated Organization** |
 | --- | --- | --- |
 | Kay Williams | @kaywilliams | Microsoft |
+
 ---
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/).
