@@ -3,8 +3,8 @@
 This is the organizational charter for the SCITT Community Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
-Work as a community to facilitate adoption of IETF Supply Chain Integrity, Transparency & Trust (SCITT) specifications.
 
+Work as a community to facilitate adoption of IETF Supply Chain Integrity, Transparency & Trust (SCITT) specifications.
 
 ## 2. Steering Committee
 
@@ -47,14 +47,14 @@ Information disclosed in connection with any of the Organization's activities, i
 
 A Project may be represented by one or more git repositories. In order to be eligible to be a Organization project, a project must:
 
-* Be approved by the Steering Committee.
-* Agree to follow the guidance and direction of the Steering Committee.
-* Use only the following outbound licenses or agreements unless otherwise approved:
+- Be approved by the Steering Committee.
+- Agree to follow the guidance and direction of the Steering Committee.
+- Use only the following outbound licenses or agreements unless otherwise approved:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
-* When a project uses multiple repositories, one root repository will maintain the project governance files. The governance files are copied from [project-docs](../project-docs), while the related repositories will maintain the same named files that link back to the root repository.
+- Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
+- When a project uses multiple repositories, one root repository will maintain the project governance files. The governance files are copied from [project-docs](../project-docs), while the related repositories will maintain the same named files that link back to the root repository.
 
 See [PROJECTS.md](PROJECTS.md) for the current SCITT Community projects.
 
