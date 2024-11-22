@@ -12,3 +12,4 @@ The SCITT Community represents the following projects:
 | v.gluecose.org | [v.gluecose.org](https://github.com/scitt-community/v.gluecose.org) | [MAINTAINERS](https://github.com/scitt-community/v.gluecose.org/blob/main/CODEOWNERS) |
 
 To submit a project, see [CHARTER: Project Criteria](https://github.com/scitt-community/governance/blob/main/org-docs/CHARTER.md#8-project-criteria) for more info.
+
